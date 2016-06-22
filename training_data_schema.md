@@ -12,7 +12,6 @@
 | device_model     | 瀏覽者裝置名稱(如：ASUS T00G)               | device_model:"iPad",                                     | varchar(80)  |
 | device_marketing | 瀏覽者裝置市場名稱（如：ZenFone 6）         | device_marketing:"iPad",                                 | varchar(80)  |
 | device_brand     | 瀏覽者裝置品牌名稱（如：ASUS）              | device_brand:"Apple",                                    | varchar(50)  |
-| search_keyword   | 瀏覽者搜尋關鍵字                            | search_keyword:"",                                       | varchar(100) |
 | cookie_pta       | 瀏覽者cookie                                | cookie_pta:"CgEBRFVcpgM7cS01B/Z3Ag==",                                          | varchar(24)  |
 | referrer_host    | 瀏覽者來源網站(如：m.facebook.com)          | referrer_host:"",                                        | varchar(255) |
 | date             | 瀏覽日期 yyyymmdd                           | date:"20160101",                                         | integer      |
